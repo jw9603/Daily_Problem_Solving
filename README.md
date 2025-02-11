@@ -22,7 +22,8 @@
 ├── README.md
 ├── 1일차/
 │   ├── Jiwon
-│   ├── Gwanhwi 
+│   ├── Gwanhwi
+    ├── README.md
 └── ...
 ```
 
