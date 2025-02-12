@@ -24,6 +24,30 @@
 │   ├── Jiwon
 │   ├── Gwanhwi
     ├── README.md
+├── 2일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
+├── 3일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
+├── 4일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
+├── 5일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
+├── 6일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
+├── 7일차/
+│   ├── Jiwon
+│   ├── Gwanhwi
+    ├── README.md
 └── ...
 ```
 
