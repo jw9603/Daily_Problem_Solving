@@ -8,3 +8,4 @@
 5. [Level 1. 없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
 6. [Level 1. 음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 7. [Level 1. 제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)
+8. [Level 1. 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)
