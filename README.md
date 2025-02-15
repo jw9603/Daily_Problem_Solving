@@ -48,6 +48,9 @@
 │   ├── Jiwon
 │   ├── Gwanhwi
     ├── README.md
+...
+├── Jiwon_solo/
+    ├── README.md
 └── ...
 ```
 
