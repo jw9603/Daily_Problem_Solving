@@ -11,3 +11,8 @@
    - [Level 1. 행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
    - [Level 1. 최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
    - [Level 1. 직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
+2. 2월 16일
+   - [Level 2. 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+   - [Level 2. JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+   - [Level 1. 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+   - [Level 2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
