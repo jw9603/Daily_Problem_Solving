@@ -1,4 +1,4 @@
-# Day 5
+# Day 5 (2월 17일)
 
 ## 📖 문제 리스트
 1. [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
