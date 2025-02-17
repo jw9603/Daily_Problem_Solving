@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 (2월 12일)
 
 ## 📖 문제 리스트
 1. [Level 2. 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
