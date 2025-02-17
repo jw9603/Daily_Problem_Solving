@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 (2월 13일)
 
 ## 📖 문제 리스트
 1. [Level 2. 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
