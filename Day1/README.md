@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (2월 11일)
 
 ## 📖 문제 리스트
 1. [Level 2. 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
