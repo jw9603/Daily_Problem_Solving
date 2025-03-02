@@ -16,3 +16,5 @@
    - [Level 2. JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
    - [Level 1. 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
    - [Level 2. 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+3. 3월 2일
+   - [Level 1. 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
